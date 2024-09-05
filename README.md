@@ -35,7 +35,7 @@ Tic Tac Toe is a simple and fun game for two players, X and O, who take turns ma
 2. Navigate to the project directory:
 
     ```bash
-    cd tic-tac-toe
+    cd Strategic-Grid
     ```
 
 3. Install the dependencies:
