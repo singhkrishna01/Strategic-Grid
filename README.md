@@ -70,11 +70,11 @@ Tic Tac Toe is a simple and fun game for two players, X and O, who take turns ma
 
 Main Page 
 
-![Tic Tac Toe Screenshot](./src/assests/front.png)
+![Alt text](src/assets/Front.png)
 
 Winning Page
 
-![Tic Tac Toe Screenshot](./path/to/your/screenshot.png)
+![Alt text](src/assets/Winning.png)
 
 ## Contributing
 
